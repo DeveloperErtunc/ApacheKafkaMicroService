@@ -1,3 +1,3 @@
 Docker-compose set up kafka and kafka-ui.
 you have to start apps with yourself.
-You can learn that how microservice connect each other with Apache Kafka.
+You can learn that how microservices connect each other with Apache Kafka.
