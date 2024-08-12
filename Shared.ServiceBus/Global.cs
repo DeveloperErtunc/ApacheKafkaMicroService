@@ -1,0 +1,11 @@
+﻿global using Confluent.Kafka;
+global using Microsoft.Extensions.Configuration;
+global using Shared.Models.DTO;
+global using Shared.Services.IServices;
+global using Shared.Models.Constants;
+global using Shared.Models.Events;
+global using Shared.Models.Serializers;
+global using Confluent.Kafka.Admin;
+global using Microsoft.Extensions.Hosting;
+global using Shared.Services.Services;
+global using System.Text.Json;
